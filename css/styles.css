@@ -10691,10 +10691,11 @@ header.masthead .page-heading,
 header.masthead .post-heading,
 header.masthead .site-heading {
   color: #fff;
+  
 }
 header.masthead .page-heading,
 header.masthead .site-heading {
-  text-align: center;
+  text-align: end;
 }
 header.masthead .page-heading h1, header.masthead .page-heading .h1,
 header.masthead .site-heading h1,
@@ -10703,7 +10704,7 @@ header.masthead .site-heading .h1 {
 }
 header.masthead .page-heading .subheading,
 header.masthead .site-heading .subheading {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 300;
   line-height: 1.1;
   display: block;
@@ -10796,3 +10797,4 @@ header.masthead .post-heading .meta a {
     font-size: 2.25rem;
   }
 }
+
